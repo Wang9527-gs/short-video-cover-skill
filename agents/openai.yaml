@@ -1,0 +1,7 @@
+interface:
+  display_name: "短视频封面Skill"
+  short_description: "按主题制作多比例短视频封面，支持人像与小奶龙"
+  default_prompt: "使用 $short-video-cover-designer，根据我附上的人像和标题制作封面；默认采用 3:4、暖光工作室、小奶龙和桌面笔记本风格。"
+
+policy:
+  allow_implicit_invocation: true
